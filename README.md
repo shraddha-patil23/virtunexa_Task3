@@ -16,3 +16,8 @@ Each entry shows the event's title, date, time, and description.
 #### 4. Responsive User Interface
 Intuitive forms for event creation and RSVP submissions.
 Fully responsive layout for use on desktops, tablets, and mobile devices.
+
+### Technologies Used
+HTML: Structure and layout of the web application.
+CSS: Styling for a clean and responsive design.
+JavaScript: Dynamic functionality for event creation and RSVP management.
