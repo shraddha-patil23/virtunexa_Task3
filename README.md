@@ -1,7 +1,7 @@
 # virtunexa_Task3
 ### Virtual Event Scheduler
 The Virtual Event Scheduler is a user-friendly, web-based application for creating, managing, and tracking events. It offers a clean interface for event scheduling and RSVP management, making it easy to organize and share event details with others.
-
+_____
 ### Features
 #### 1. Event Creation
 Create events by providing a title, date, time, and description.
@@ -16,8 +16,10 @@ Each entry shows the event's title, date, time, and description.
 #### 4. Responsive User Interface
 Intuitive forms for event creation and RSVP submissions.
 Fully responsive layout for use on desktops, tablets, and mobile devices.
-
+_____
 ### Technologies Used
 HTML: Structure and layout of the web application.
+
 CSS: Styling for a clean and responsive design.
+
 JavaScript: Dynamic functionality for event creation and RSVP management.
